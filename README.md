@@ -1,6 +1,6 @@
 ## 🚀 Software Engineer 
 
-7+ years of experience making sure the invisible parts of the internet don't crash. 4+ Years Crushing it with Go (Golang). Constant learner, relentless builder, and fueled by clean code. Let’s ship something epic!
+7+ years of experience making sure the invisible parts of the internet don't crash. 4+ Years Crushing it with Go (Golang). 
 
 ```go
 Go
@@ -14,6 +14,6 @@ func MyProfile() {
     SoftSkills   := "Asynchronous Comm, Tech Docs, Self-Regulated Project Ownership"
     
     // Yes, I can actually center a div with Tailwind, but my heart belongs to the backend.
-    log.Println("7+ years of building full-stack systems that don't crash in production.")
+    log.Println("Constant learner, relentless builder, and fueled by clean code. Let’s ship something epic!")
 }
 ```
